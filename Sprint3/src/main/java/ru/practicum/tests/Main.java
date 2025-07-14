@@ -7,6 +7,7 @@ System.out.println("Для демонстрации конфликта и стр
         System.out.printf("Hello and welcome!");
         System.out.println("Даешь конфликты и ура");
         for (int i = 1; i <= 5; i++) {
+System.out.println("Привет из консольного коммита");
             System.out.println("i = " + i);
         }
     }
