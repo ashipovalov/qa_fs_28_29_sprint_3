@@ -1,6 +1,6 @@
 package ru.practicum.tests;
 
-
+//Этот комментарий оставлен на сервере
 public class Main {
     public static void main(String[] args) {
 System.out.println("Для демонстрации конфликта и стратегии разрешения оного");
